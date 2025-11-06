@@ -7,7 +7,7 @@ import java.util.Scanner;
 
             Operadores op = new Operadores();
 
-            System.out.println("=== CALCULADORA JAVA ===");
+            System.out.println(" Calculadora");
 
             System.out.print("Digite o primeiro valor: ");
             float v1 = ler.nextFloat();
